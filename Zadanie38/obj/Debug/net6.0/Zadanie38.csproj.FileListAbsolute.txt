@@ -1,0 +1,15 @@
+C:\Users\AlFeraax\Desktop\DomashneeZadanie 22.12.2022 (Kashirsky)\Zadanie38\bin\Debug\net6.0\Zadanie38.exe
+C:\Users\AlFeraax\Desktop\DomashneeZadanie 22.12.2022 (Kashirsky)\Zadanie38\bin\Debug\net6.0\Zadanie38.deps.json
+C:\Users\AlFeraax\Desktop\DomashneeZadanie 22.12.2022 (Kashirsky)\Zadanie38\bin\Debug\net6.0\Zadanie38.runtimeconfig.json
+C:\Users\AlFeraax\Desktop\DomashneeZadanie 22.12.2022 (Kashirsky)\Zadanie38\bin\Debug\net6.0\Zadanie38.dll
+C:\Users\AlFeraax\Desktop\DomashneeZadanie 22.12.2022 (Kashirsky)\Zadanie38\bin\Debug\net6.0\Zadanie38.pdb
+C:\Users\AlFeraax\Desktop\DomashneeZadanie 22.12.2022 (Kashirsky)\Zadanie38\obj\Debug\net6.0\Zadanie38.csproj.AssemblyReference.cache
+C:\Users\AlFeraax\Desktop\DomashneeZadanie 22.12.2022 (Kashirsky)\Zadanie38\obj\Debug\net6.0\Zadanie38.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AlFeraax\Desktop\DomashneeZadanie 22.12.2022 (Kashirsky)\Zadanie38\obj\Debug\net6.0\Zadanie38.AssemblyInfoInputs.cache
+C:\Users\AlFeraax\Desktop\DomashneeZadanie 22.12.2022 (Kashirsky)\Zadanie38\obj\Debug\net6.0\Zadanie38.AssemblyInfo.cs
+C:\Users\AlFeraax\Desktop\DomashneeZadanie 22.12.2022 (Kashirsky)\Zadanie38\obj\Debug\net6.0\Zadanie38.csproj.CoreCompileInputs.cache
+C:\Users\AlFeraax\Desktop\DomashneeZadanie 22.12.2022 (Kashirsky)\Zadanie38\obj\Debug\net6.0\Zadanie38.dll
+C:\Users\AlFeraax\Desktop\DomashneeZadanie 22.12.2022 (Kashirsky)\Zadanie38\obj\Debug\net6.0\refint\Zadanie38.dll
+C:\Users\AlFeraax\Desktop\DomashneeZadanie 22.12.2022 (Kashirsky)\Zadanie38\obj\Debug\net6.0\Zadanie38.pdb
+C:\Users\AlFeraax\Desktop\DomashneeZadanie 22.12.2022 (Kashirsky)\Zadanie38\obj\Debug\net6.0\Zadanie38.genruntimeconfig.cache
+C:\Users\AlFeraax\Desktop\DomashneeZadanie 22.12.2022 (Kashirsky)\Zadanie38\obj\Debug\net6.0\ref\Zadanie38.dll
